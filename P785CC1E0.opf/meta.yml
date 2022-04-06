@@ -1,0 +1,31 @@
+id: P785CC1E0
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG535
+  instance_id: http://purl.bdrc.io/resource/IE1KG535
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - དྲན་པའི་ཟིན་ཐོ།
+  alt_title:
+    en:
+    - list of missing
+  author: http://purl.bdrc.io/resource/P1KG536
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    18cbd0c91e664cb18664777ab647068b:
+      title: པོད ༡་དྲན་པའི་ཟིན་ཐོ
+      volume_number: 1
+      base_file: UT1KG535_I1KG544_0000.txt
+      reference: http://purl.bdrc.io/resource/VL9B2FF99E28BC6023
+      image_group: I1KG544
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG535
+  - http://purl.bdrc.io/resource/W1KG535
+  ocr_software: Namsel
+created_at: '2021-12-22T10:49:14.946479'
+last_modified_at: '2021-12-22T10:49:14.946484'
